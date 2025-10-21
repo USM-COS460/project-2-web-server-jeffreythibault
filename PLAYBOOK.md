@@ -1,7 +1,7 @@
 ## COS 460/540 - Computer Networks
 # Project 2: HTTP Server
 
-# <<Jeff Thibault>>
+# << Jeff Thibault >>
 
 This project is written in <<Java>> on <<Windows>>.
 
